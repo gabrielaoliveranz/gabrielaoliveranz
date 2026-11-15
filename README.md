@@ -10,7 +10,7 @@
 
 ---
 
-Independent data analyst based in New Zealand, helping small businesses ask their numbers a question — and actually get a clear answer.
+Hi, I'm Gabriela Olivera, an independent data analyst based in New Zealand, helping small businesses ask their numbers a question — and actually get a clear answer.
 
 ### About
 
